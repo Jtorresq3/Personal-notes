@@ -10,3 +10,4 @@ TILs are short Markdown documents (a few sentences + example code) explaining co
 For new TILs, watch this repo
 
 ## About
+I got this idea from  jbranchaud/til.
